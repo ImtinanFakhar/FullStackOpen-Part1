@@ -1,3 +1,2 @@
 # FullStackOpen-Part1
-
-https://fullstackopen.com/en/part1
+I completed all the exercises for https://fullstackopen.com/en/part1
